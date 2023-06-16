@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727470638974",
+    "project_id": "sembudg-a0606",
+    "storage_bucket": "sembudg-a0606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727470638974:android:698546ba2a1718754a552f",
+        "android_client_info": {
+          "package_name": "com.example.sembudg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727470638974-rvls8f9m6c8o0iuavqgvfgqj8gcpi0ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sembudg",
+            "certificate_hash": "33d7ffbf0ed788c9bb29d82037e2ea6f64ae75ae"
+          }
+        },
+        {
+          "client_id": "727470638974-vhnpvruhur8qe2ub9fp1llh1hi554lii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYY6rtgxrPPmilumSTo3c0XYeKEU5FRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727470638974-vhnpvruhur8qe2ub9fp1llh1hi554lii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
